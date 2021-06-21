@@ -1,0 +1,189 @@
+body {
+    /* background: url(sasha-matic-G88UK9k7mzU-unsplash.jpg);
+    background-size: cover;
+    background-position: center; */
+    background-color: rgb(22, 56, 22);
+    color: white;
+    font-family: inconsolata;
+}
+
+.navbar{
+    background-color: rgb(22, 56, 22); 
+}
+
+
+.navbar-brand {
+    padding-left: 20px;
+    color: rgb(211, 191, 153);
+    font-size: 1.75rem;
+}
+
+.nav-link {
+    margin: 0 30px;
+    color: white;
+}
+
+/* #header {
+    background: url(sasha-matic-G88UK9k7mzU-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+} */
+
+
+section .sekt {
+    width: 100vw;
+    height: 100vh;
+}
+
+#header h1 {
+    margin-top: 40px;
+}
+
+#header div {
+    padding-top: 40px;
+}
+
+.context {
+    padding-top: 20px;
+}
+
+#About {  
+    background-color: rgb(14, 43, 14);
+}
+
+
+
+ #About .sekt {
+    width: 100vh;
+    height: 100vh;
+}
+
+ #About h1 {
+     text-align: center;
+ }
+
+ #About .col {
+    margin-top: 80px;
+}
+
+.card a {
+    color: white;
+    background: rgb(14, 43, 14);
+}
+
+
+
+section .skills {
+    width: 50vw;
+    height: 60vh;
+}
+
+#skills h1 {
+    text-align: center;
+}
+
+div .icon {
+    text-align: center;
+    background-color: rgb(14, 43, 14);
+    margin-right: 20px;
+    margin-top: 80px;
+}
+
+.icon i{
+    font-size: 2rem;
+    color: rgb(252, 252, 252);
+    padding-top: 10px;
+}
+
+#projects {  
+    background-color: rgb(14, 43, 14);
+}
+
+#projects h1 {
+    text-align: center;
+}
+
+/* form {
+    line-height: 2rem;
+} */
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+
+}
+
+#info input {
+    height: 10em;
+}
+
+#contact a{
+    font-size: 3rem;
+    color: rgb(252, 252, 252);
+    padding-right: 10px;
+}
+#contact a:hover,
+.navbar a:hover{
+    color: rgb(211, 191, 153);
+} 
+
+button {
+    width: 30%;
+    height: 15%;
+    background-color: rgb(14, 43, 14);
+    color: white;
+    margin-top: 20px;
+}
+#projects a:hover {
+    color: rgb(211, 191, 153);
+}
+
+
+
+/* .contact-links  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute; 
+    gap: 10px;
+        row-gap: 10px;
+        column-gap: 10px;
+    top: 50%;
+    right: 2px;
+    transform: translateY(-50%);
+    z-index: 4;    
+}
+
+.contact-links::before,
+.contact-links::after {
+    content: "";
+    position: absolute;
+    top: -46%;
+    left: 50%;
+    height: 60px;
+    width: 2px;
+    transform: translate(-50%);
+    background-color:red ;
+} */
+/* 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(14, 43, 14);
+} */
