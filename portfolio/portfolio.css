@@ -75,7 +75,7 @@ section .sekt {
 
 section .skills {
     width: 50vw;
-    height: 60vh;
+    height: 75vh;
 }
 
 #skills h1 {
